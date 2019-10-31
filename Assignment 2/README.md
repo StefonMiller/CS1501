@@ -1,0 +1,1 @@
+This program creates a trieST, DLB tree, or a hybrid depending on user input.  In the hybrid version, the tree will switch from a DLB tree to a trieST once a enough nodes have been generated to warrant a trieST.
