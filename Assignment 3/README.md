@@ -1,1 +1,1 @@
-This program utilizes the LZW compression scheme to compress and decompress data
+This program modifies a previously provided LZW compression program to optimize preformance. Specifically, it reads in the file byte-by-byte rather than all at once.  In addition, it represents string lookups as stringbuilders, and represents the dictionary as a trieST, using a stringbuilder as the key instead of string.
