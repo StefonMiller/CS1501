@@ -1,2 +1,3 @@
 # CS1501
-CS1501 University of Pittsburgh Summer 2019
+University of Pittsburgh CS1501: Algorithm Implementation
+Summer 2019
